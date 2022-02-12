@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "620729ba96a3087a9e8a5c0d"
+  },
+  "nik": 12345678912345,
+  "name": "Budi",
+  "email": "text@example.com",
+  "phone": 81112345678,
+  "motherName": "Siti",
+  "fatherName": "Tono",
+  "birthPlace": "Subang",
+  "birthDate": {
+    "$date": "2022-01-31T17:00:00Z"
+  },
+  "address": "Cibitung",
+  "city": "Bekasi",
+  "gender": "L",
+  "insurance": "Umum",
+  "__v": 0
+}]
